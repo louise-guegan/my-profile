@@ -1,0 +1,80 @@
+h1 {
+	color: #4F5D75;
+	font-size: 60px;
+	font-family: 'Selima', bold;
+	letter-spacing: 1px;
+	text-align: center;
+
+}
+
+h2 {
+	color: #BFC0C0;
+	font-size: 30px;
+	font-family: 'Roboto', regular;
+	letter-spacing: 1px;
+	text-align: center;
+
+}
+
+h3 {
+	color: #2D3142;
+	font-size: 20px;
+	font-family: 'Roboto', bold;
+	letter-spacing: 1px;
+	text-align: center;
+
+}
+
+body{
+	background-color:#2D3142;
+	font-weight: 90;
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+
+}
+
+.fond-blanc{
+    border: 1px solid white;
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 40px;
+}
+
+#image-circle{
+	border-radius: 30px;
+}
+
+.btn{
+	background-color: #87677B;
+	color: white;
+	font-weight: bold;
+	margin: 40px;
+	padding: 15px 10px;
+	border-radius: 5px;
+	text-decoration: none ;
+
+}
+
+.container{
+	width: 600px;
+	margin: 0 auto;
+	text-align: center;
+	
+}
+
+div {
+	padding: 60px;
+	margin: 60px;
+	
+}
+
+.liste {
+	list-style: none;
+	padding-left: 0px;
+}
+
+#introduction p {
+	margin-bottom: 30px;
+	margin-top: 30px
+}
